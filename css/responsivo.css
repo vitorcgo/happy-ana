@@ -1,0 +1,65 @@
+@media screen and (max-width: 500px) {
+
+.wrapper {
+    height: 100%;
+}
+
+.happy-container {
+    padding-top: 200px;
+}
+
+.artigo1 h1 {
+    font-size: 30px;
+}
+
+
+.container-topo {
+    padding-top: 200px;
+}
+
+.seta {
+display: none;
+}
+
+.main-1 p {
+    font-size: 13px;
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.artigo2 p {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-size: 15px;
+}
+
+.penguin {
+    display: none;
+}
+
+.balao {
+    display: none;
+}
+
+.escolha {
+    padding-top: 300px;
+    height: fit-content;
+}
+
+.main-escolha h1 {
+    font-size: 30px;
+}
+
+.coracao {
+    display: none;
+}
+
+.flex {
+    flex-direction: column;
+    align-items: center;
+    gap: 1px;
+}
+
+}
